@@ -10,3 +10,8 @@ Istanbul, Turkey
 1_3_HW1: First Homework
 2_1_user_enter.py: Having a user name and a password in the system and checking if the user entered true.
 2_2_HW2.py: Second Homework
+3_1_improved_user_enter.py: Gives user 3 attemts to enter correctly user name and the password.
+3_2_ATM.py: An ATM machine program in which user can check the amount of money, put money, and draw cash.
+3_3_facorial.py: A Program which evaluates the factorial of an entered number.
+3_4_fibonacci.py: A Program to find the fibonacci series up to a given number.
+3_5_HW3.py: Third Homework
