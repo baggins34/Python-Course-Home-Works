@@ -15,3 +15,6 @@ Istanbul, Turkey
 3_3_facorial.py: A Program which evaluates the factorial of an entered number.
 3_4_fibonacci.py: A Program to find the fibonacci series up to a given number.
 3_5_HW3.py: Third Homework
+4_1_prime_numbers.py: Checking if the given number is a prime number
+4_2_divider.py: Finding the divider of a given number
+4_3_HW4.py: Fourth Homework
