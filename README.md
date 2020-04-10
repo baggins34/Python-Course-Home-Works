@@ -18,3 +18,5 @@ Istanbul, Turkey
 4_1_prime_numbers.py: Checking if the given number is a prime number
 4_2_divider.py: Finding the divider of a given number
 4_3_HW4.py: Fourth Homework
+5_1_number_guessing_game.py: The program generates a random number between 1 and 40 and asks user to find the number in max 7 attempts.
+6_1_remote_controller_class.py: Creating a class for a remote controller
